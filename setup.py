@@ -8,4 +8,5 @@ setup(name='funniest',
       author_email='flyingcircus@example.com',
       license='MIT',
       packages=['funniest'],
+      scripts=['bin/funniest-joke'],
       zip_safe=False)

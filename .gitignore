@@ -4,5 +4,8 @@
 # Setuptools distribution folder.
 /dist/
 
+# Virtual environment folder.
+/venv/
+
 # Python egg metadata, regenerated from source files by setuptools.
 /*.egg-info
